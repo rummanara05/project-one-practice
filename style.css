@@ -62,3 +62,25 @@
 .button:hover{
     color: aqua;
 }
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: initial;
+    flex-direction: row-reverse;
+    padding-top: 30px;
+}
+.about-head{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 55px;
+}
+.para-1{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.para-2{
+    font-size: 20px;
+    padding-bottom: 15px;
+   
+}
